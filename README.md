@@ -4,7 +4,7 @@
 
 # 👩🏽‍💻 Sobre
 
-Sou desenvolvedor de software, atualmente expandindo meus conhecimentos e focando como desenvolvedor Front-End, Processamento de Linguagem natural e Análise de sentimentos.
+Estou expandindo meus conhecimentos e focando como desenvolvedor Front-End, Processamento de Linguagem natural e Análise de sentimentos.
 
 Comecei a me interessar pela área quando peguei meu primeiro celular na mão, no auge dos meus 15 anos, no 2º ano do ensino médio. Só fui saber realmente a beleza da área quando ingressei na faculdade em 2019. Passei por muitos ensinamentos da vida que a lógica de programação não explica, mas me apaixonei ainda mais pela programação, pois agora sei que um coração bom e uma lógica objetiva pode mudar vidas. E esse é o meu propósito. Comecei um pouco reclusa, por ser do interior, mas com o tempo peguei rapido as aulas, e quando chegou na disciplina de banco de dados, nossaaaaa... me apaixonei, e dai para frente, altos e baixos surgiram, mas a programação ficou. Gosto do Back-end, mas me sito bem mais gratificada enquanto estou desenvolvendo pensando em como o usuário vai se sentir, ou como o usuário pensa ou em como dados podem extratir opiniões de usuários. Se ligou? Gosto de Ti porque ela pode mudar a vida das pessoas.
 
