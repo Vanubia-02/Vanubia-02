@@ -1,4 +1,4 @@
-# <img src="https://firebasestorage.googleapis.com/v0/b/axial-journal-411520.appspot.com/o/eu.png?alt=media&token=82cab264-0892-4b4b-a1dd-c538971f80c7" width="40px" height="40px" /> Olá entusiastas da tecnologia e do progresso 👋
+# <img src="https://firebasestorage.googleapis.com/v0/b/axial-journal-411520.appspot.com/o/eu.png?alt=media&token=82cab264-0892-4b4b-a1dd-c538971f80c7" width="40px" height="40px" /> Olá entusiastas da tecnologia👋
 
 
 
