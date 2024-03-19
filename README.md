@@ -29,7 +29,7 @@ Gosto de organização, dedicação e principalmente boa comunicação e parceri
 
 ## ☻ Views
 
-[![Hits](https://hits.sh/github.com/nevesfg.svg?style=for-the-badge&label=Profile%20Views&color=002dff&labelColor=000000&logo=github)](https://hits.sh/github.com/nevesfg/)
+[![Hits](https://hits.sh/github.com/nevesfg.svg?style=for-the-badge&label=Profile%20Views&color=002dff&labelColor=000000&logo=github)](https://hits.sh/github.com/Vanubia-02/)
 
     
 ## ⌨️ Tecnologias
