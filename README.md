@@ -24,9 +24,9 @@ Gosto de organização, dedicação e principalmente boa comunicação e parceri
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nevesfg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/van%C3%BAbia-santos-lima-a382862bb/)
-[![Discord](https://img.shields.io/badge/Discord-5865f2?logo=Discord&logoColor=white)](https://discord.gg/JZ2Yujx3Xj)
+[![Currículo](https://img.shields.io/badge/Currículo-Resume-blue)](https://firebasestorage.googleapis.com/v0/b/axial-journal-411520.appspot.com/o/Curriculo%20%20-%20Van%C3%BAbia%20Santos%20Lima.pdf?alt=media&token=fbc99940-562b-45c1-ae3b-d4ff8cbe077d)
 
-https://www.linkedin.com/in/van%C3%BAbia-santos-lima-a382862bb/
+
 ## ☻ Views
 
 [![Hits](https://hits.sh/github.com/nevesfg.svg?style=for-the-badge&label=Profile%20Views&color=002dff&labelColor=000000&logo=github)](https://hits.sh/github.com/nevesfg/)
