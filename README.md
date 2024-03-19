@@ -4,7 +4,7 @@
 
 # 👩🏽‍💻 Sobre
 
-Estou expandindo meus conhecimentos e focando como desenvolvedor Front-End, Processamento de Linguagem natural e Análise de sentimentos.
+Estou expandindo meus conhecimentos e focando como desenvolvedor Front-End, Processamento de Linguagem natural e Análise de sentimentos(Design Gráfico é uma parte de mim... ).
 
 Comecei a me interessar pela área quando peguei meu primeiro celular na mão, no auge dos meus 15 anos, no 2º ano do ensino médio. Só fui saber realmente a beleza da área quando ingressei na faculdade em 2019. Passei por muitos ensinamentos da vida que a lógica de programação não explica, mas me apaixonei ainda mais pela programação, pois agora sei que um coração bom e uma lógica objetiva pode mudar vidas. E esse é o meu propósito. Comecei um pouco reclusa, por ser do interior, mas com o tempo peguei rapido as aulas, e quando chegou na disciplina de banco de dados, nossaaaaa... me apaixonei, e dai para frente, altos e baixos surgiram, mas a programação ficou. Gosto do Back-end, mas, me sito bem mais gratificada enquanto estou desenvolvendo pensando em como o usuário vai se sentir, ou como o usuário pensa ou em como dados podem extratir opiniões de usuários. Se ligou? Gosto de Ti porque ela pode mudar a vida das pessoas.
 
@@ -32,25 +32,29 @@ Gosto de organização, dedicação e principalmente boa comunicação e parceri
 [![Hits](https://hits.sh/github.com/nevesfg.svg?style=for-the-badge&label=Profile%20Views&color=002dff&labelColor=000000&logo=github)](https://hits.sh/github.com/Vanubia-02/)
 
     
-## ⌨️ Tecnologias
+## ⌨️ Tecnologias Dev
 
-![Victor-Js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Victor-HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Victor-CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Victor-MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Victor-Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Victor-GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Vanubia-MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Java](https://img.shields.io/badge/java-ed272c.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Dialogflow](https://img.shields.io/badge/dialogflow-ef6c00?style=for-the-badge&logo=dialogflow&logoColor=white)
+![Cloud-Functions](https://img.shields.io/badge/cloud_functions-3a72f1?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-dd4a66?style=for-the-badge&logo=figma&logoColor=white)
+
 
   
 ## ⏳ Estudando...
 
-![Victor-Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Vanubia-Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![Vanubia-Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Vanubia-Node_Js](https://img.shields.io/badge/node_js-ffca28?style=for-the-badge&logo=node_js&logoColor=black)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/node.js-4EA94B?style=for-the-badge&logo=node.js&logoColor=white)
 
 
 
