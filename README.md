@@ -10,11 +10,11 @@ Comecei a me interessar pela área quando peguei meu primeiro celular na mão, n
 
 Estou finalizando a faculade de Análise e Desenvolvimento de Sistemas no Instituto Federal Baiano - Campus Guanambi. E daqui a pouco retono aqui com novidades.
 
-Gosto de organização, dedicação e principalmente boa comunicação e parceria durante o desnvolvimento de um projeto. Tenho espirito de lider, pois um bom lider escuta quando deve escutar e chama a atenção quando deve ser mais preciso, e sabe que um ambiente tranquilo e saudavel traz bons resultados para todos. Sou bem detalhista, e insistente no que gosto...não paro de insistir pelo que vale a pena. Estou sempre atenta às atualizações no mundo da tecnologia e sempre aberta ao aprendizado.
+Gosto de organização, dedicação e principalmente boa comunicação e parceria durante o desenvolvimento de um projeto. Tenho espirito de lider, pois um bom lider escuta quando deve escutar e chamar a atenção quando deve ser mais preciso, e sabe que um ambiente tranquilo e saudavel traz bons resultados para todos. Sou bem detalhista, e insistente no que gosto...não paro de insistir pelo que vale a pena. Estou sempre atenta às atualizações no mundo da tecnologia e sempre aberta ao aprendizado.
 
 ## ✨ Fora do ambiente profissional:
 
-- 🎥|Sou apaixonada por animes e doramas e filmes
+- 🎥|Sou apaixonada por animes, doramas e filmes
 - 🎙️ |Gosto de relaxar ouvidos as melodias da minha voz
 - 👾|Se me chamar para jogar, é claro que eu quero!
 
