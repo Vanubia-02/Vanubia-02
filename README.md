@@ -50,6 +50,7 @@ Gosto de organização, dedicação e principalmente boa comunicação e parceri
 ![Victor-Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Vanubia-Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Vanubia-Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Vanubia-Node_Js](https://img.shields.io/badge/node_js-ffca28?style=for-the-badge&logo=node_js&logoColor=black)
 
 
 
