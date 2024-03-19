@@ -1,6 +1,6 @@
 # <img src="https://firebasestorage.googleapis.com/v0/b/axial-journal-411520.appspot.com/o/eu.png?alt=media&token=82cab264-0892-4b4b-a1dd-c538971f80c7" width="40px" height="40px" /> Olá entusiastas da tecnologia 👋🏼 
 
-👩🏽‍🎓 Sou Vanúbia Santos, uma desenvolvedora de software apaixonado pela tecnologia e a capacidade que ela tem de transformar o mundo e ajudar as pessoas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal Baiano - Campus Guanambi.
+👩🏽‍🎓 Sou Vanúbia Santos, uma desenvolvedora de software apaixonada pela tecnologia e a capacidade que ela tem de transformar o mundo e ajudar as pessoas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal Baiano - Campus Guanambi.
 
 # 👩🏽‍💻 Sobre
 
